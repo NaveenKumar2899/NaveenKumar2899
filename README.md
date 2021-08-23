@@ -2,8 +2,8 @@
 - 👀 I’m interested in  Software development
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on Software development and testing sectors
-- 📫 Ping me on
-naveenkannan289@gmail.com
+- 📫 Ping me on naveenkannan289@gmail.com
+- 📞 Contact  me on +919344005146
 
 <!---
 NaveenKumar2899/NaveenKumar2899 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
