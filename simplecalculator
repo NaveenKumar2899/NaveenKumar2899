@@ -1,0 +1,21 @@
+//simple calculator
+public class Main{
+public static void main(String[]args){
+int a=1, b=2;
+int C;
+C=a+b;
+System.out.println(C);
+C=a-b;
+System.out.println(C);
+C=a*b;
+System.out.println(C);
+C=a/b;
+System.out.println(C);
+C=a%b;
+System.out.println(C);
+C=a++;
+System.out.println("increment a++ " +C);
+C=--b;
+System.out.println("decrement --b " +C);
+}
+}
