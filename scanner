@@ -1,0 +1,45 @@
+import java.util.*;
+
+public class test {
+    public static void main(String args[]) {
+      c1 obj1 = new c1();
+      obj1.input();
+      c2 obj2 = new c2();
+      obj2.input();
+    }
+}
+
+class c1
+{
+    int age;
+    String name;
+    
+    void input()
+    {
+        System.out.println("Enter age");
+        age = inputclass.in.nextInt();
+        System.out.println("Enter name");
+        name = inputclass.in.next();
+        System.out.println("Name: " + name + " Age: "+ age);
+    }
+}
+
+class c2
+{
+    float perc;
+    String id;
+    
+    void input()
+    {
+        System.out.println("Enter percentage");
+        perc = inputclass.in.nextFloat();
+        System.out.println("Enter ID");
+        id = inputclass.in.next();
+        System.out.println("Id: "+ id + " Percentage: "+ perc);
+        
+    }
+}
+class inputclass
+{
+    static Scanner in = new Scanner(System.in);
+}
